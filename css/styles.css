@@ -1,0 +1,24 @@
+img {
+    border-radius: 50%;
+    height: 150px;
+    object-fit: cover;
+    width: 150px;
+}
+
+body {
+    background-color: #eaf6f6;
+}
+
+hr {
+    /* background-color: white; */
+    border-style: none none dotted ;
+    border-color: blueviolet;
+    border-width: 5px;
+    /* height: 2px; */
+    width: 40px;
+}
+
+h1,
+h3 {
+    color: #66bfbf;
+}
